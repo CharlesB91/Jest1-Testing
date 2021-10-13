@@ -1,0 +1,22 @@
+{
+  "name": "jest1-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesB91/Jest1-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesB91/Jest1-Testing/issues"
+  },
+  "homepage": "https://github.com/CharlesB91/Jest1-Testing#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
